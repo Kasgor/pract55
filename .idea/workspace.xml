@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c044027-2733-4c4e-9eb3-a9f4bc68bcd2" name="Changes" comment="settings.xml" />
+    <list default="true" id="3c044027-2733-4c4e-9eb3-a9f4bc68bcd2" name="Changes" comment="changes to token secret">
+      <change beforePath="$PROJECT_DIR$/.m2/settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/settings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718616686133</updated>
-      <workItem from="1718616687194" duration="3037000" />
+      <workItem from="1718616687194" duration="3629000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -105,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718619522564</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changes to token secret">
+      <option name="closed" value="true" />
+      <created>1718619996634</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718619996634</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +125,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="pom changes" />
     <MESSAGE value="settings.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="settings.xml" />
+    <MESSAGE value="changes to token secret" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes to token secret" />
   </component>
 </project>
