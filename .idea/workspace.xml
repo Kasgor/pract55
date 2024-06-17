@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c044027-2733-4c4e-9eb3-a9f4bc68bcd2" name="Changes" comment="pom changes" />
+    <list default="true" id="3c044027-2733-4c4e-9eb3-a9f4bc68bcd2" name="Changes" comment="settings.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718616686133</updated>
-      <workItem from="1718616687194" duration="2723000" />
+      <workItem from="1718616687194" duration="3037000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -97,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718618955211</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="settings.xml">
+      <option name="closed" value="true" />
+      <created>1718619522564</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718619522564</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="pom changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="pom changes" />
+    <MESSAGE value="settings.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="settings.xml" />
   </component>
 </project>
