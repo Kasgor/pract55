@@ -3,7 +3,7 @@ package org.example;
 /**
  * The main class of the application.
  */
-public class Main {
+public final class Main {
     // Private constructor to prevent instantiation
     private Main() {
         throw new UnsupportedOperationException("Utility class");
